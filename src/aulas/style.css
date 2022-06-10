@@ -1,0 +1,22 @@
+
+.div-title{
+    width: 100%;
+    margin: 30px;
+}
+
+.div-title, h1{
+    text-align: center;
+    color:brown;
+}
+
+.container-geral{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.quadro-posts{
+    border: 1px solid cadetblue;
+    margin: 8px;
+    padding: 5px;
+    margin: auto;
+}
